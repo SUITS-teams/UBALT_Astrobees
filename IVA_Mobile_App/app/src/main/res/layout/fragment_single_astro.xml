@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    android:fitsSystemWindows="true"
+    tools:context=".singleAstro"
+    android:orientation="horizontal">
+
+    <RelativeLayout
+        android:layout_weight="0.5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/outP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Outside Pressure"
+        android:textSize="24sp"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:id="@+id/outTemp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Outside Temperature"
+        android:textSize="24sp"
+        android:layout_below="@id/outP"
+        />
+    <TextView
+        android:id="@+id/fan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fan Speed"
+        android:textSize="24sp"
+        android:layout_below="@id/outTemp"
+        />
+    <TextView
+        android:id="@+id/oP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="O2 Pressure"
+        android:textSize="24sp"
+        android:layout_below="@id/fan"
+        />
+
+    <TextView
+        android:id="@+id/battery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Battery Capacity"
+        android:textSize="24sp"
+        android:layout_below="@id/oP"
+        />
+
+
+
+
+
+
+    </RelativeLayout>
+
+</LinearLayout>

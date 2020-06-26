@@ -1,0 +1,22 @@
+{
+  "name": "octaviamini",
+  "version": "1.0.0",
+  "description": "One instance of octavia for a localised network. This is just a sample and should be able to get me throughCOSC 490",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devStart": "nodemon server.js"
+  },
+  "keywords": [
+    "server"
+  ],
+  "author": "Michael Vandi",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.5.8",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

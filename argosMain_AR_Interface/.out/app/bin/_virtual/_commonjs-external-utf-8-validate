@@ -1,0 +1,5 @@
+import utf8Validate from 'utf-8-validate';
+
+
+
+export default utf8Validate;

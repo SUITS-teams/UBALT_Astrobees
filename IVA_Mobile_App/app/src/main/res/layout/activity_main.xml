@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/drawer_layout"
+    android:fitsSystemWindows="true"
+    tools:context=".MainActivity"
+
+    android:orientation="horizontal">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+     <androidx.appcompat.widget.Toolbar
+         android:layout_width="match_parent"
+         android:layout_height="?attr/actionBarSize"
+         android:background="@color/colorPrimary"
+         android:id="@+id/toolbar"
+         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+         app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+         android:elevation="4dp"
+         />
+
+        <FrameLayout
+            android:id="@+id/fragment_container"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <WebView
+            android:id="@+id/webview1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <!--
+        <RelativeLayout
+            android:id="@+id/layout_astro_1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5">
+
+            <TextView
+                android:id="@+id/astro1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Astronaut One" />
+
+            <TextView
+                android:id="@+id/battery"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/astro1"
+                android:text="Battery Percentage"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/beat"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/battery"
+                android:text="Heart Beat"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/Oxygen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/beat"
+                android:text="Oxygen"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/Pressure"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Oxygen"
+                android:text="Pressure"
+                android:textSize="24sp" />
+
+            <Button
+                android:id="@+id/btnMore"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Pressure"
+                android:text="More Details" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/layout_astro_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.5">
+
+            <TextView
+                android:id="@+id/astro2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Astronaut Two" />
+
+            <TextView
+                android:id="@+id/battery2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/astro2"
+                android:text="Battery Percentage"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/beat2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/battery2"
+                android:text="Heart Beat"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/Oxygen2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/beat2"
+                android:text="Oxygen"
+                android:textSize="24sp" />
+
+            <TextView
+                android:id="@+id/Pressure2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Oxygen2"
+                android:text="Pressure"
+                android:textSize="24sp" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/Pressure2"
+                android:text="More Details" />
+        </RelativeLayout> -->
+
+    </LinearLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:id="@+id/nav_view"
+        app:headerLayout="@layout/nav_header"
+        app:menu="@menu/nasa_menu"
+        />
+
+
+</androidx.drawerlayout.widget.DrawerLayout>

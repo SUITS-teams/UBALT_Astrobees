@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/fieldTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Field Notes"
+        android:textSize="30sp"
+        />
+    <TextView
+        android:id="@+id/dateTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/fieldTitle"
+        android:text=" Date and Time "
+        android:textSize="35dp"
+        android:layout_marginTop="25dp"
+        />
+    <TextView
+        android:id="@+id/sampleLoc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dateTime"
+        android:text="Sample Location"
+        android:layout_marginTop="2dp"
+        android:textSize="35dp"/>
+    <TextView
+        android:id="@+id/sampleDesc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sampleLoc"
+        android:text="Sample Description"
+        android:layout_marginTop="2dp"
+        android:textSize="35dp"/>
+
+
+
+
+
+
+</RelativeLayout>

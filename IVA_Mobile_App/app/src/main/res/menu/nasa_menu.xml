@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/main"
+            android:icon="@drawable/ic_home_page"
+            android:checkable="true"
+            android:title="Home Page"/>
+    <!--<item
+        android:id="@+id/details"
+        android:icon="@drawable/ic_eva_details"
+        android:checkable="true"
+        android:title="@string/eva_details" /> -->
+    <item
+    android:id="@+id/Stream"
+        android:icon="@drawable/ic_live"
+        android:checkable="true"
+        android:title="@string/live_stream" />
+    <!--<item
+        android:id="@+id/rover"
+        android:icon="@drawable/ic_rover"
+        android:checkable="true"
+        android:title="@string/rover_details" /> -->
+    <item
+        android:id="@+id/single"
+        android:icon="@drawable/ic_single"
+        android:checkable="true"
+        android:title="@string/single_telemetry" />
+
+        <item
+            android:id="@+id/field"
+            android:icon="@drawable/ic_field_notes"
+            android:checkable="true"
+            android:title="@string/field_notes"
+            />
+    </group>
+
+</menu>

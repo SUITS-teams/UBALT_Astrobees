@@ -1,0 +1,1845 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "28ec330c4919e8cfdda99b598e1a6d102f253b28",
+   "pkgpath": "bin/_virtual/XMLHttpRequest.js",
+   "size": 148,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/XMLHttpRequest.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c90400bb8227df1449c40a71c62480074b0d1226",
+   "pkgpath": "bin/_virtual/_commonjs-external-bufferutil",
+   "size": 67,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-bufferutil"
+  },
+  {
+   "compression": 8,
+   "hash": "c4741cbc4f28690a3772cc83bfec7bad52405712",
+   "pkgpath": "bin/_virtual/_commonjs-external-child_process",
+   "size": 76,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-child_process"
+  },
+  {
+   "compression": 8,
+   "hash": "840e06518fbdb1ee6e319825c4594c1553673e79",
+   "pkgpath": "bin/_virtual/_commonjs-external-http",
+   "size": 49,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-http"
+  },
+  {
+   "compression": 8,
+   "hash": "6d4ec853fdff731e17f9ab5f0a954945c29b0b77",
+   "pkgpath": "bin/_virtual/_commonjs-external-https",
+   "size": 52,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-https"
+  },
+  {
+   "compression": 8,
+   "hash": "1d0bde5ac301a34b884ccbececd5ae113f605a23",
+   "pkgpath": "bin/_virtual/_commonjs-external-net",
+   "size": 46,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-net"
+  },
+  {
+   "compression": 8,
+   "hash": "1e4baba9c6e876ce087134c6ea7f59c96dd1563e",
+   "pkgpath": "bin/_virtual/_commonjs-external-tls",
+   "size": 46,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-tls"
+  },
+  {
+   "compression": 8,
+   "hash": "e5b448a1fd00138baa284404190976971443e502",
+   "pkgpath": "bin/_virtual/_commonjs-external-tty",
+   "size": 46,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-tty"
+  },
+  {
+   "compression": 8,
+   "hash": "a7c5e3723dfa86d45315ed58260a4ffd71cad41f",
+   "pkgpath": "bin/_virtual/_commonjs-external-url",
+   "size": 46,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-url"
+  },
+  {
+   "compression": 8,
+   "hash": "df7e8abdbb1ed3bc706b5b50654cd7803ea36962",
+   "pkgpath": "bin/_virtual/_commonjs-external-utf-8-validate",
+   "size": 75,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-utf-8-validate"
+  },
+  {
+   "compression": 8,
+   "hash": "4b8d6f0ac9d13bf10539292fb5aa266fed71190e",
+   "pkgpath": "bin/_virtual/_commonjs-external-zlib",
+   "size": 49,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-zlib"
+  },
+  {
+   "compression": 8,
+   "hash": "48cc5159ad7cc9820980ee913c9c4a02f13b4ccb",
+   "pkgpath": "bin/_virtual/_commonjsHelpers.js",
+   "size": 368,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjsHelpers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1b829856712703edb7d35da31265ca32b7cd7d86",
+   "pkgpath": "bin/_virtual/binary.js",
+   "size": 144,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/binary.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d072ff5747c32445e71792cd88da9874602b0997",
+   "pkgpath": "bin/_virtual/browser.js",
+   "size": 140,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/browser.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ccfb81f0c7360999e7685d8a53c30ee2b5baa9d7",
+   "pkgpath": "bin/_virtual/browser2.js",
+   "size": 170,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/browser2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "59c2b359a3ba71f321921e0a1218fc40dd95414f",
+   "pkgpath": "bin/_virtual/browser3.js",
+   "size": 140,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/browser3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "253a46e47c37fec06d6b6648467476869aa5feab",
+   "pkgpath": "bin/_virtual/buffer-util.js",
+   "size": 147,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/buffer-util.js"
+  },
+  {
+   "compression": 8,
+   "hash": "abe1a67b3102b9193035dfd7ebd04dc987845129",
+   "pkgpath": "bin/_virtual/common.js",
+   "size": 137,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/common.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dfdf3677e983290e8f2ad609fdb63f89ab9f8914",
+   "pkgpath": "bin/_virtual/common2.js",
+   "size": 137,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/common2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "48a8d21be29b92ff7b6db5bc4f11b06036e99d32",
+   "pkgpath": "bin/_virtual/constants.js",
+   "size": 143,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/constants.js"
+  },
+  {
+   "compression": 8,
+   "hash": "84ce1a86e0571adffd582173823c640b3a2174df",
+   "pkgpath": "bin/_virtual/crypto.js",
+   "size": 111,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/crypto.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f893e35c0c424911c24bf04d3ebc11008163b9d8",
+   "pkgpath": "bin/_virtual/debug.js",
+   "size": 164,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/debug.js"
+  },
+  {
+   "compression": 8,
+   "hash": "51ebc5b08870e538c2e57c78113b6b80255454a0",
+   "pkgpath": "bin/_virtual/event-target.js",
+   "size": 150,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/event-target.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7613a667657f1398b299030e0fcd2a89e81989eb",
+   "pkgpath": "bin/_virtual/events.js",
+   "size": 111,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/events.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c42361e8c4043673eb1624437135aead8962fee8",
+   "pkgpath": "bin/_virtual/extension.js",
+   "size": 143,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/extension.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d566070d9bb27866cd09cf724e248b1fe6fd96f1",
+   "pkgpath": "bin/_virtual/fs.js",
+   "size": 99,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "afe5766857b1fd0829198de673aa010e7a98d8f1",
+   "pkgpath": "bin/_virtual/globalThis.js",
+   "size": 130,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/globalThis.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a2b75235e54b9cbc9470502cc781a1a6413fd7aa",
+   "pkgpath": "bin/_virtual/index.js",
+   "size": 121,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "27ec8fc4110568bf10d7d418e429c88b59d266d3",
+   "pkgpath": "bin/_virtual/index10.js",
+   "size": 116,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index10.js"
+  },
+  {
+   "compression": 8,
+   "hash": "aa1dead4ce4d390dd0242fab09cbaae4db475110",
+   "pkgpath": "bin/_virtual/index11.js",
+   "size": 104,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index11.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e6748b378a6c2ff19c025175a6be1631ac1bbf02",
+   "pkgpath": "bin/_virtual/index12.js",
+   "size": 111,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index12.js"
+  },
+  {
+   "compression": 8,
+   "hash": "01273d978353edab3d92f1c6f1030e226e35f3ed",
+   "pkgpath": "bin/_virtual/index13.js",
+   "size": 121,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index13.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d22d78f5bf36f9d37132c9eeaae74232b78e31ab",
+   "pkgpath": "bin/_virtual/index14.js",
+   "size": 106,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index14.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c9779718b02b8d69097c78497f15ac0a73fb1051",
+   "pkgpath": "bin/_virtual/index15.js",
+   "size": 134,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index15.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5090e6a319a8cc028c91396e083ea546eef6e237",
+   "pkgpath": "bin/_virtual/index16.js",
+   "size": 104,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index16.js"
+  },
+  {
+   "compression": 8,
+   "hash": "28250b634550016d3f8f56c0c6d526837a31e245",
+   "pkgpath": "bin/_virtual/index17.js",
+   "size": 130,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index17.js"
+  },
+  {
+   "compression": 8,
+   "hash": "79d730c1f23acee98e65400f4d04a76e0a0bc536",
+   "pkgpath": "bin/_virtual/index18.js",
+   "size": 122,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index18.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e401a69df4ccc283c82f5b6d7a07f423281bc30c",
+   "pkgpath": "bin/_virtual/index19.js",
+   "size": 121,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index19.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0ec0b6debfcd14b26f5c3549caa43eb3d6823e74",
+   "pkgpath": "bin/_virtual/index2.js",
+   "size": 125,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ad40daec2284057dec2b0d5b7ee331961c4c098c",
+   "pkgpath": "bin/_virtual/index20.js",
+   "size": 136,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index20.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e347a1b2f3b3003630a94e023be0c2d49639cfc8",
+   "pkgpath": "bin/_virtual/index21.js",
+   "size": 106,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index21.js"
+  },
+  {
+   "compression": 8,
+   "hash": "34a638516f26b6ea820eee86afb434bfa557b051",
+   "pkgpath": "bin/_virtual/index22.js",
+   "size": 161,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index22.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e76f9c145d4e563f1b69f0e542bc077544fa8755",
+   "pkgpath": "bin/_virtual/index23.js",
+   "size": 111,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index23.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0f9cc9f45d386f08cda3b22c2982907dd9f14cc4",
+   "pkgpath": "bin/_virtual/index24.js",
+   "size": 125,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index24.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c8291cc4ad124aff32f491ca9ee0bf775e7a0359",
+   "pkgpath": "bin/_virtual/index25.js",
+   "size": 111,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index25.js"
+  },
+  {
+   "compression": 8,
+   "hash": "df0f665373f75d5ce86b3e07525607fba945fa18",
+   "pkgpath": "bin/_virtual/index26.js",
+   "size": 103,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index26.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cabb446ca5bbfec2ccce0048912541413a1d1531",
+   "pkgpath": "bin/_virtual/index3.js",
+   "size": 109,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8c65a48f361336c2d9c6407c0bdfacaa0cb8bd48",
+   "pkgpath": "bin/_virtual/index4.js",
+   "size": 130,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index4.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1b5f95e6d7cc03c54b8bcc9a373b3cb1facdbeee",
+   "pkgpath": "bin/_virtual/index5.js",
+   "size": 151,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index5.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6473363e236ac3e19f14d8ba1724537ef847746c",
+   "pkgpath": "bin/_virtual/index6.js",
+   "size": 136,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index6.js"
+  },
+  {
+   "compression": 8,
+   "hash": "60543ea3f747ec20a88e028b7cd50fd5b80af989",
+   "pkgpath": "bin/_virtual/index7.js",
+   "size": 160,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index7.js"
+  },
+  {
+   "compression": 8,
+   "hash": "019cf5049fd26e7f760bb1f79eca1411291d3d97",
+   "pkgpath": "bin/_virtual/index8.js",
+   "size": 134,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index8.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1713aaf5a2f493528f6c11120fe6d3c1e4483e97",
+   "pkgpath": "bin/_virtual/index9.js",
+   "size": 131,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index9.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d9a49c5d755c05bcea96cabfa59f2bc82fa237f2",
+   "pkgpath": "bin/_virtual/is-buffer.js",
+   "size": 151,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/is-buffer.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c0da36149e0eed558fa8e00b7b1b0be0c79c83ad",
+   "pkgpath": "bin/_virtual/keys.js",
+   "size": 112,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/keys.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d916aca1f32dc05d280d2fcebfa2dc5aca1096f5",
+   "pkgpath": "bin/_virtual/manager.js",
+   "size": 121,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/manager.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dd5b4b6fab1d0d104840997575a75fb345153ef8",
+   "pkgpath": "bin/_virtual/node.js",
+   "size": 131,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/node.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0ac0233fbfb8b46120f9b94a7e4120e7922b42f1",
+   "pkgpath": "bin/_virtual/node2.js",
+   "size": 161,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/node2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c95ea947ce8a00e53e33582512cf0ba23a656014",
+   "pkgpath": "bin/_virtual/node3.js",
+   "size": 131,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/node3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "72ebd6b00ecfb4a1ebbf4e6eed8153fbc8c0b2a2",
+   "pkgpath": "bin/_virtual/on.js",
+   "size": 110,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/on.js"
+  },
+  {
+   "compression": 8,
+   "hash": "951886c4396c342ecdb308bf6111870766af33b5",
+   "pkgpath": "bin/_virtual/permessage-deflate.js",
+   "size": 168,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/permessage-deflate.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7b8f4f0e68c94ce983a6c40063d71c71016110e8",
+   "pkgpath": "bin/_virtual/polling-jsonp.js",
+   "size": 148,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/polling-jsonp.js"
+  },
+  {
+   "compression": 8,
+   "hash": "390c1bb0e2f316c3b6f0f4af2d6758785010431d",
+   "pkgpath": "bin/_virtual/polling-xhr.js",
+   "size": 142,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/polling-xhr.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c49fc84ae0ab34943825edd87fd93186343933c2",
+   "pkgpath": "bin/_virtual/polling.js",
+   "size": 132,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/polling.js"
+  },
+  {
+   "compression": 8,
+   "hash": "962ad90f7e9a256744848e4640e27c0622790d4f",
+   "pkgpath": "bin/_virtual/receiver.js",
+   "size": 140,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/receiver.js"
+  },
+  {
+   "compression": 8,
+   "hash": "62d00ed7024bd3192442f495ba1a044e281f10e6",
+   "pkgpath": "bin/_virtual/sender.js",
+   "size": 134,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/sender.js"
+  },
+  {
+   "compression": 8,
+   "hash": "90319c6054547befc48bf4945bff29e5f64d108e",
+   "pkgpath": "bin/_virtual/socket.js",
+   "size": 118,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/socket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "150ec4e14c1ef200b0ec4da48a43848b4f1f7d16",
+   "pkgpath": "bin/_virtual/socket2.js",
+   "size": 118,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/socket2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2de4b65a08ade2eb0df3cdab13f3b4b391ca952a",
+   "pkgpath": "bin/_virtual/stream.js",
+   "size": 111,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/stream.js"
+  },
+  {
+   "compression": 8,
+   "hash": "434c62cb965d91c0394174eacad7c5888927b0c1",
+   "pkgpath": "bin/_virtual/transport.js",
+   "size": 127,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/transport.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1c9218658ed0a2cac13d9d23e444544794aac705",
+   "pkgpath": "bin/_virtual/url.js",
+   "size": 113,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/url.js"
+  },
+  {
+   "compression": 8,
+   "hash": "cde695d1a4e054810484ea95e1836cccec2b3ade",
+   "pkgpath": "bin/_virtual/utf8.js",
+   "size": 112,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/utf8.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b8caf296c97c2a64c93b20e5219c63118888dfca",
+   "pkgpath": "bin/_virtual/validation.js",
+   "size": 146,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/validation.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e5b7773655d89f50a70a938f0a2ff3c8d60c1628",
+   "pkgpath": "bin/_virtual/websocket-server.js",
+   "size": 162,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/websocket-server.js"
+  },
+  {
+   "compression": 8,
+   "hash": "eca39b20da5d1a838aed3ae10110593e049612e0",
+   "pkgpath": "bin/_virtual/websocket.js",
+   "size": 143,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/websocket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "51b50df8a15bd81fca251d8f33b249c0f5ab87c1",
+   "pkgpath": "bin/_virtual/websocket2.js",
+   "size": 138,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/websocket2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9b3b9bf7aaa41ad178f5c1db28d09b7cfe724299",
+   "pkgpath": "bin/index.js",
+   "size": 49,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3edb4e16c5afae20f8aca199c28acdd30bf04545",
+   "pkgpath": "bin/node_modules/after/index.js",
+   "size": 731,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/after/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5dffea65ca433ef1d32534200738b183752e92a0",
+   "pkgpath": "bin/node_modules/async-limiter/index.js",
+   "size": 1266,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/async-limiter/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "857a5f7cc30800a588df02bd25d66f0b4d7c2e73",
+   "pkgpath": "bin/node_modules/backo2/index.js",
+   "size": 1432,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/backo2/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "721a7c699c61551fe2670d83535121f88fd19bd8",
+   "pkgpath": "bin/node_modules/component-bind/index.js",
+   "size": 523,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/component-bind/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "44e63e6ebaed14070630e5c4638303c6441141f3",
+   "pkgpath": "bin/node_modules/component-emitter/index.js",
+   "size": 3333,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/component-emitter/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6a24295e769b6c237c7c93fcff09628081965cf3",
+   "pkgpath": "bin/node_modules/component-inherit/index.js",
+   "size": 201,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/component-inherit/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2f65546907644a98bf5b196505daf70ad57d9b4c",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/globalThis.js",
+   "size": 149,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/globalThis.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ff1fe3ec12ac760f996891e342daf3234f6dcade",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/index.js",
+   "size": 338,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ddb10b0db08056ee1858b02384a45b105b4e28cc",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/socket.js",
+   "size": 19592,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/socket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c30abebe73018197cbafc59f98beae60e153de03",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/transport.js",
+   "size": 3086,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transport.js"
+  },
+  {
+   "compression": 8,
+   "hash": "66740b00e0a4c755eedf5927d0bfd672cf1a8a82",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/transports/index.js",
+   "size": 1479,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "99a0935b1e6cfdc52e8e98c20c7ac9a0864b0498",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/transports/polling-jsonp.js",
+   "size": 5091,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/polling-jsonp.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fc90437169bdf99269d0f568a54a9b23e7ed29d0",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/transports/polling-xhr.js",
+   "size": 9756,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/polling-xhr.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b8da317e15e86e669cfe461c689a661e1c962c82",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/transports/polling.js",
+   "size": 5505,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/polling.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e5700e61779f089ca9b7580e44c5c2810296e8a4",
+   "pkgpath": "bin/node_modules/engine.io-client/lib/transports/websocket.js",
+   "size": 6909,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/websocket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ff50324a0cb1af9c95ad509f1caf66194bf0a4d6",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/debug/src/browser.js",
+   "size": 6471,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/browser.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c8343cbbf606a16e7a350d48cec92e6a1cd239f1",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/debug/src/common.js",
+   "size": 6051,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/common.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5076df088066851ed4a0553af8fbd999e0450bfb",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/debug/src/index.js",
+   "size": 631,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d85b7143f43abe29f88f8134a170d4c7b6b26c49",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/debug/src/node.js",
+   "size": 5281,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/node.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a42b3d39f3d943a725fe694ea9c5945d0d1f570f",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ms/index.js",
+   "size": 3050,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ms/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "57469267d7db49886dc99a7e1b85f191b49e4673",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/index.js",
+   "size": 513,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "87dee29233fcc8fa18eec9b240163eff705d64ef",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/buffer-util.js",
+   "size": 2347,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/buffer-util.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1001ea0a59a21708e614731020482885c82428d7",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/constants.js",
+   "size": 294,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/constants.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ee4d802d15ec116dfb0a2f05e9451555e9ea20c8",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/event-target.js",
+   "size": 3967,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/event-target.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c720acbe3d574ca31763703d7549ef494be59b40",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/extension.js",
+   "size": 6840,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/extension.js"
+  },
+  {
+   "compression": 8,
+   "hash": "169e8698020d82ae08ec7ac391dcc2ac23b6d3b2",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/permessage-deflate.js",
+   "size": 14408,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/permessage-deflate.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f8776746bd17dca834a4a642b8887cefb0e760c4",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/receiver.js",
+   "size": 12965,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/receiver.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8b467e22685f44956fb1a4011bf5bb4d487134bb",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/sender.js",
+   "size": 11071,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/sender.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fd18778754a7021bbad0f87f4767405a16d1bedb",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/validation.js",
+   "size": 1130,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/validation.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9549ed2060d250777a61403266da0237a7f41123",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/websocket-server.js",
+   "size": 11321,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/websocket-server.js"
+  },
+  {
+   "compression": 8,
+   "hash": "427f0784d83a09a6bd2ba25dcd63b2f458881692",
+   "pkgpath": "bin/node_modules/engine.io-client/node_modules/ws/lib/websocket.js",
+   "size": 23990,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/websocket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ea9e6fe457897d972a239b23fd250d6b0ac3fd2c",
+   "pkgpath": "bin/node_modules/engine.io-parser/lib/index.js",
+   "size": 11752,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-parser/lib/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3dafa3f94eafbfced11f941c115a4d5ff9f43858",
+   "pkgpath": "bin/node_modules/engine.io-parser/lib/keys.js",
+   "size": 327,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-parser/lib/keys.js"
+  },
+  {
+   "compression": 8,
+   "hash": "770db49747b83a388714fe547de6053813fd5490",
+   "pkgpath": "bin/node_modules/engine.io-parser/lib/utf8.js",
+   "size": 5176,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-parser/lib/utf8.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f87d856e91242a2c6772e5fff90fd1689ec513d1",
+   "pkgpath": "bin/node_modules/gl-matrix/esm/common.js",
+   "size": 383,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/common.js"
+  },
+  {
+   "compression": 8,
+   "hash": "e47a2048d9ab028be18b80c4a79fbe4c0ba00a8c",
+   "pkgpath": "bin/node_modules/gl-matrix/esm/mat3.js",
+   "size": 435,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/mat3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "db7c2acfa9a2dcd2886ab444ace05804ef00c527",
+   "pkgpath": "bin/node_modules/gl-matrix/esm/mat4.js",
+   "size": 1976,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/mat4.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8bb0c8bbc9d2f4469d61669ba36068cb159d02f4",
+   "pkgpath": "bin/node_modules/gl-matrix/esm/quat.js",
+   "size": 6461,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/quat.js"
+  },
+  {
+   "compression": 8,
+   "hash": "fb7e2359c4df1925b88b9eef37850e38987d42c3",
+   "pkgpath": "bin/node_modules/gl-matrix/esm/vec2.js",
+   "size": 1429,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/vec2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1881109772b0bcb8ceb4f826fbbcc5cdbbe5560f",
+   "pkgpath": "bin/node_modules/gl-matrix/esm/vec3.js",
+   "size": 3918,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/vec3.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ac6f8eb22b93a604bbf0d723108b92912e84d392",
+   "pkgpath": "bin/node_modules/gl-matrix/esm/vec4.js",
+   "size": 1999,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/vec4.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9d9d8f9ffe6fc03d44601eab05449a2584c5a32b",
+   "pkgpath": "bin/node_modules/has-binary2/index.js",
+   "size": 1609,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/has-binary2/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "60c010e458e6b9d7c2e1575cc87f3dd3cf01dc57",
+   "pkgpath": "bin/node_modules/has-binary2/node_modules/isarray/index.js",
+   "size": 169,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/has-binary2/node_modules/isarray/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "75d7797c9ed9b59f6929dd2830f4cdcf3735b989",
+   "pkgpath": "bin/node_modules/indexof/index.js",
+   "size": 236,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/indexof/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9e2b01f6687fa78134209d6b6581db268573ab51",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/Storage.js",
+   "size": 2148,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/Storage.js"
+  },
+  {
+   "compression": 8,
+   "hash": "d344c26a9ceeff8bb40296a577b72a297ff92581",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/assert.js",
+   "size": 211,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/assert.js"
+  },
+  {
+   "compression": 8,
+   "hash": "991701ead1e4d88ca70c0a46ac408ec2c0cfe853",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/bintools.js",
+   "size": 5374,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/bintools.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0b00bbaa8677cce583b9c6bdef2945588e9ee959",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/codec-wrap.js",
+   "size": 1880,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/codec-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "773c9c293a3d11c0ffb7bf9a93693a704c851f22",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/console.js",
+   "size": 788,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/console.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1caf6ca664de74056e12428319d08a5f14b5e93f",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/crypto.js",
+   "size": 448,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/crypto.js"
+  },
+  {
+   "compression": 8,
+   "hash": "de9cdd906aa387360bf7ffefaa76e583876aa067",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/evented.js",
+   "size": 1089,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/evented.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4f28294c97caa03f6a23a95549d2afeb247d3a21",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fetch.js",
+   "size": 12721,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fetch.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8d397b14710bb05484924559c45a936f22880dfb",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fs-promised.js",
+   "size": 918,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fs-promised.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6a20949f12e41e696fa2dc6d83094880f5abc9fb",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fs-uv.js",
+   "size": 1236,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fs-uv.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3127c67c9ebc38b8a4b81baee4d40bebb1e35728",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/fs.js",
+   "size": 4228,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9ef91d62105008365cdfbf9f871d789bc9d4974e",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/headers.js",
+   "size": 1573,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/headers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "72ac60f4a9b110fc19180d2f5fefd0a9bd0da229",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/http-codec.js",
+   "size": 8593,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/http-codec.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a463ddb17460e051dfd086de8d70ead0fdea59af",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/mime.js",
+   "size": 5784,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/mime.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b71d157205da78b5f4fb82b41668bc2fec16e0d5",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/node/crypto.js",
+   "size": 1484,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/crypto.js"
+  },
+  {
+   "compression": 8,
+   "hash": "27f31eb5f18260baff3d8bf78cc67a698d50864b",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/node/events.js",
+   "size": 139,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/events.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3fced5fe204cbf52a075e41d2dfc5bc29a9a4e63",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/node/fs.js",
+   "size": 3314,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/fs.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8a209b1e3b9a51b7846bb5ede8ebd9e6a914e12d",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/node/process.js",
+   "size": 241,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/process.js"
+  },
+  {
+   "compression": 8,
+   "hash": "69615c8e0c6cdd8b75578ce3b8967a6994ac5e12",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/node/stream.js",
+   "size": 204,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/stream.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f900a1eb3eb0fe75ec57cfdaf9a5c633a9f0ef89",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/node/util.js",
+   "size": 242,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/util.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9c766ba2e1bad3344ab296716360fd54f17503a0",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/polyfills.js",
+   "size": 1211,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/polyfills.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dd008681e7f9280f72fb9d20320726b1061589df",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/pretty-print.js",
+   "size": 8567,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/pretty-print.js"
+  },
+  {
+   "compression": 8,
+   "hash": "5a531a5aea8706254fdf577c0231c1d922023310",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/resolve.js",
+   "size": 859,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/resolve.js"
+  },
+  {
+   "compression": 8,
+   "hash": "65a0e5ad85201a130a3d3762a55b1e43951e250f",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/sha1.js",
+   "size": 3563,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/sha1.js"
+  },
+  {
+   "compression": 8,
+   "hash": "c665a011b71fd571aea7703cf3a0a0f96b95343e",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/socket-wrap.js",
+   "size": 2606,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/socket-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "379ff0f739120f40e7f4639225bdf3ed583d4814",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/tcp.js",
+   "size": 944,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/tcp.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2ca4e16db232d9bdc449fafae0ca9abec0dcae93",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/text-encoder.js",
+   "size": 2386,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/text-encoder.js"
+  },
+  {
+   "compression": 8,
+   "hash": "dc5e2649b5c022004d4afc10d8b343c97d0c9f01",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/timers.js",
+   "size": 2918,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/timers.js"
+  },
+  {
+   "compression": 8,
+   "hash": "ba230d3a70e3fe50d3ecd93b66e78cc7109551bc",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/tls-wrap.js",
+   "size": 2384,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/tls-wrap.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f6de87e3cda3151010bc63bc466e16419a3b7352",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/utils.js",
+   "size": 967,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/utils.js"
+  },
+  {
+   "compression": 8,
+   "hash": "58b5b3832c864aed0e87381fc3cc44d6bed23072",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/utils2.js",
+   "size": 3852,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/utils2.js"
+  },
+  {
+   "compression": 8,
+   "hash": "9d41b2ab54a3bc59488b2a1b14f07af202a38662",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/websocket-codec.js",
+   "size": 3029,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/websocket-codec.js"
+  },
+  {
+   "compression": 8,
+   "hash": "136f57763011c6265e56a64d6e6d5fd649b702f3",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/websocket.js",
+   "size": 6262,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/websocket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3cf92545c6471c650e68a628ffbd1dc7c5b93390",
+   "pkgpath": "bin/node_modules/magic-script-polyfills/src/xhr.js",
+   "size": 2352,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/xhr.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f55bc080741112141a65fe9a9771c8602facb32f",
+   "pkgpath": "bin/node_modules/parseqs/index.js",
+   "size": 845,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/parseqs/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "23f6bd8f7a82b2420bb61a58038cc1190a03530f",
+   "pkgpath": "bin/node_modules/parseuri/index.js",
+   "size": 1271,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/parseuri/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b99cd3604f11648e76caccd54a8423fbfe0b8b38",
+   "pkgpath": "bin/node_modules/socket.io-client/dist/socket.io.js",
+   "size": 69074,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/dist/socket.io.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8d978afc7c6b10de67cd4c6b9fa489215df26728",
+   "pkgpath": "bin/node_modules/socket.io-client/lib/index.js",
+   "size": 2444,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4fb0796881308fbbfb5571c69e444652193f647e",
+   "pkgpath": "bin/node_modules/socket.io-client/lib/manager.js",
+   "size": 13058,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/manager.js"
+  },
+  {
+   "compression": 8,
+   "hash": "7057eddb332e6576593234ab075ad9f4a88f0047",
+   "pkgpath": "bin/node_modules/socket.io-client/lib/on.js",
+   "size": 403,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/on.js"
+  },
+  {
+   "compression": 8,
+   "hash": "468dcab8975f2e1b6e27a8b225f9e74792332fab",
+   "pkgpath": "bin/node_modules/socket.io-client/lib/socket.js",
+   "size": 8899,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/socket.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4a093b69a513c3bd153161d1ebff32dd4c3bc8a8",
+   "pkgpath": "bin/node_modules/socket.io-client/lib/url.js",
+   "size": 1821,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/url.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4b32e144631f1449d24fadd4c525b98dbcff6e33",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/debug/src/browser.js",
+   "size": 6470,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/browser.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f6daecf516c3c37d70789066d5aa9c05c0e46093",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/debug/src/common.js",
+   "size": 6049,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/common.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8cf3b7b238e76715e3d5e999f80538d35e2377c9",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/debug/src/index.js",
+   "size": 629,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b8b505489ba9bd48d45406e657d1d1fa553cc1e9",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/debug/src/node.js",
+   "size": 5280,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/node.js"
+  },
+  {
+   "compression": 8,
+   "hash": "60c010e458e6b9d7c2e1575cc87f3dd3cf01dc57",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/isarray/index.js",
+   "size": 169,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/isarray/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a42b3d39f3d943a725fe694ea9c5945d0d1f570f",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/ms/index.js",
+   "size": 3050,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/ms/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4bca5368e1475573f594f5d24421e9ba0edb09f0",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/binary.js",
+   "size": 4388,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/binary.js"
+  },
+  {
+   "compression": 8,
+   "hash": "729d51ede394330e3c4739d5858f10eaddc2e476",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/index.js",
+   "size": 9413,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "aad881f44cad62d32666c09a5e933d51737de0d9",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/is-buffer.js",
+   "size": 614,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/is-buffer.js"
+  },
+  {
+   "compression": 8,
+   "hash": "8f48556b4a3ca6e013d3f77875527fe52776571e",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/browser.js",
+   "size": 6358,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/browser.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3cf9c47cb7bcda9fcece812f09fe509faad2bb4e",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/debug.js",
+   "size": 5615,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/debug.js"
+  },
+  {
+   "compression": 8,
+   "hash": "1b8078caac27ec20e91330dd00ca4e845a6cf1c0",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/index.js",
+   "size": 598,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "22c09a69371a5d50948a10ead1b58890824ff77d",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/node.js",
+   "size": 5187,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/node.js"
+  },
+  {
+   "compression": 8,
+   "hash": "f7b91caa73e890de0b0ba8fc4db1c3852aa13de8",
+   "pkgpath": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/ms/index.js",
+   "size": 2791,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/ms/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "a1356c663cdcabe0c2519e8131d668140daac961",
+   "pkgpath": "bin/node_modules/supports-color/index.js",
+   "size": 936,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/supports-color/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "0bff8648581591fbbdb83ca4b27ae6dfd7dd8df6",
+   "pkgpath": "bin/node_modules/to-array/index.js",
+   "size": 261,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/to-array/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "070b76da9799676c4b67549b2f9f44e9b62ee855",
+   "pkgpath": "bin/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js",
+   "size": 18946,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2f7756d50382d6e90dc480d11bd5f906c78540ac",
+   "pkgpath": "bin/node_modules/yeast/index.js",
+   "size": 1374,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/yeast/index.js"
+  },
+  {
+   "compression": 8,
+   "hash": "64ac5936b5be2d7d5424fb677f1279c3fa8bdde1",
+   "pkgpath": "bin/src/Components/systemComponents/scienceSampling/scienceSampling.js",
+   "size": 4569,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/systemComponents/scienceSampling/scienceSampling.js"
+  },
+  {
+   "compression": 8,
+   "hash": "78fafbb41b9557cff6a5d03a00ab459c3af50f0b",
+   "pkgpath": "bin/src/Components/systemComponents/telemetry/telemetry.js",
+   "size": 2313,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/systemComponents/telemetry/telemetry.js"
+  },
+  {
+   "compression": 8,
+   "hash": "50dc9dc733e9962a9b17b0397935013aebca2d5e",
+   "pkgpath": "bin/src/Components/systemComponents/toolKit/toolKit.js",
+   "size": 2659,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/systemComponents/toolKit/toolKit.js"
+  },
+  {
+   "compression": 8,
+   "hash": "3f6ea66571497fa544b234024054e678c4fd12d2",
+   "pkgpath": "bin/src/Components/uiComponents/ButtonArgos.js",
+   "size": 1421,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/ButtonArgos.js"
+  },
+  {
+   "compression": 8,
+   "hash": "2dc44bc1b6a0dbf1210b2f2c0121bcb515c29176",
+   "pkgpath": "bin/src/Components/uiComponents/Prisms.js",
+   "size": 295,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/Prisms.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b88ccebc707e3c1cfdcb5481aee4ec463afeb55e",
+   "pkgpath": "bin/src/Components/uiComponents/TextArgos.js",
+   "size": 315,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/TextArgos.js"
+  },
+  {
+   "compression": 8,
+   "hash": "4e642d369eb572bcfe5ab6484ce0def7bd93d377",
+   "pkgpath": "bin/src/Components/uiComponents/globalVariables.js",
+   "size": 6276,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/globalVariables.js"
+  },
+  {
+   "compression": 8,
+   "hash": "daaea018a192768bbc77a23f8a375c0b4ce30612",
+   "pkgpath": "bin/src/app.js",
+   "size": 20769,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/app.js"
+  },
+  {
+   "compression": 8,
+   "hash": "b075676bab19b1753b5db06c499274cb565fd78b",
+   "pkgpath": "bin/src/main.js",
+   "size": 365,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/main.js"
+  },
+  {
+   "compression": 8,
+   "hash": "6c89fb62f9f975453ce3421d4d8933bfd0d7c174",
+   "pkgpath": "./digest.sha512.signed",
+   "size": 32070,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/digest.sha512.signed"
+  },
+  {
+   "compression": 8,
+   "hash": "124170ef1d2cc2c02d828583de2ae0c27079e7c3",
+   "pkgpath": "res/.placeholder",
+   "size": 44,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/.placeholder"
+  },
+  {
+   "compression": 8,
+   "hash": "7d4b4a4b669b5f975a7376f4632f59334481984b",
+   "pkgpath": "res/Gesture_C.png",
+   "size": 61490,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_C.png"
+  },
+  {
+   "compression": 8,
+   "hash": "546b9ccbb7c62d6f5ed35ee30f901f1fbeb59ec1",
+   "pkgpath": "res/Gesture_Finger.png",
+   "size": 44886,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_Finger.png"
+  },
+  {
+   "compression": 8,
+   "hash": "a1a8723556ad379612527cf132c0bfe12b9807b3",
+   "pkgpath": "res/Gesture_Fist.png",
+   "size": 43777,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_Fist.png"
+  },
+  {
+   "compression": 8,
+   "hash": "5c6ebf651b19d13b63fecf3ff23c4e17a00cc396",
+   "pkgpath": "res/Gesture_L.png",
+   "size": 48754,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_L.png"
+  },
+  {
+   "compression": 8,
+   "hash": "e5c431b6bd6a272911e8bb8f77dbc64ec4306462",
+   "pkgpath": "res/Gesture_Ok.png",
+   "size": 68685,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_Ok.png"
+  },
+  {
+   "compression": 8,
+   "hash": "3ede1e430db94a850a51f86f208ce894289ddf28",
+   "pkgpath": "res/Gesture_OpenHand.png",
+   "size": 62173,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_OpenHand.png"
+  },
+  {
+   "compression": 8,
+   "hash": "bb9073ff843768d19f9c1d42db76ee8b534f12c6",
+   "pkgpath": "res/Gesture_Pinch.png",
+   "size": 65353,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_Pinch.png"
+  },
+  {
+   "compression": 8,
+   "hash": "e5561cfb72194ea828c91aeb40eff26f332b981e",
+   "pkgpath": "res/Gesture_Thumb.png",
+   "size": 40725,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Gesture_Thumb.png"
+  },
+  {
+   "compression": 8,
+   "hash": "5d36d18eab017513d7fd69d26368850e470af254",
+   "pkgpath": "res/Objects.xml",
+   "size": 260,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Objects.xml"
+  },
+  {
+   "compression": 8,
+   "hash": "6abfb81041e37c3cede725d0bc0fad7d5b07cf91",
+   "pkgpath": "res/Resources.xml",
+   "size": 105,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Resources.xml"
+  },
+  {
+   "compression": 8,
+   "hash": "bf549527c35821ef74bfbed64b0c519d68c12771",
+   "pkgpath": "res/Sphere_P.FBX",
+   "size": 40832,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/Sphere_P.FBX"
+  },
+  {
+   "compression": 8,
+   "hash": "c66df436cb7da87b55f8c4bb789324d3c8d604cc",
+   "pkgpath": "res/amp.png",
+   "size": 10477,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/amp.png"
+  },
+  {
+   "compression": 8,
+   "hash": "ea7f2c8d69eb7ec18165942f22297bff42491018",
+   "pkgpath": "res/amp2.png",
+   "size": 2671,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/amp2.png"
+  },
+  {
+   "compression": 8,
+   "hash": "27d70747b9134732bcb0c4fe1d4204d831ca0dd6",
+   "pkgpath": "res/animation.png",
+   "size": 724,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/animation.png"
+  },
+  {
+   "compression": 8,
+   "hash": "e74f29030f3a700c55abc156569f4f258360750a",
+   "pkgpath": "res/animation_hover.png",
+   "size": 6785,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/animation_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "eeab244438916b205657c982a39e8de98f2155fa",
+   "pkgpath": "res/battery.png",
+   "size": 323,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/battery.png"
+  },
+  {
+   "compression": 8,
+   "hash": "fa091ab80a581ca0111626f118bf6f482cf3485a",
+   "pkgpath": "res/brush_scribber_lens.glb",
+   "size": 995372,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/brush_scribber_lens.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "7b9d2482e755bd69725a841230087cfbf7ee7742",
+   "pkgpath": "res/camera.png",
+   "size": 648,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/camera.png"
+  },
+  {
+   "compression": 8,
+   "hash": "6bcb3c5086089a7c58894fecda73b490565dfa52",
+   "pkgpath": "res/camera_hover.png",
+   "size": 6641,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/camera_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "75b0815fe45ace4bc85b9c606346b92ece8bde93",
+   "pkgpath": "res/contact_soil_sampling.glb",
+   "size": 168332,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/contact_soil_sampling.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "ea675177e285576f17edf6d4c6c89c75eb4c1bc8",
+   "pkgpath": "res/destination_hover.png",
+   "size": 16736,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/destination_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "6c5a579072732d83184bb4545077b9b114c4415d",
+   "pkgpath": "res/done.png",
+   "size": 2453,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/done.png"
+  },
+  {
+   "compression": 8,
+   "hash": "77842f3551a4cb5e09a408648a05467b7e5663f7",
+   "pkgpath": "res/done_hover.png",
+   "size": 5162,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/done_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "6a7ccf47ee7ecd4d7625d8b1d379f9cd83c00eaa",
+   "pkgpath": "res/exension_handle.glb",
+   "size": 85596,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/exension_handle.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "035d441c066a407558abcac4246a1d823460629c",
+   "pkgpath": "res/exploration.png",
+   "size": 6136,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/exploration.png"
+  },
+  {
+   "compression": 8,
+   "hash": "f6f405c8a44b83ac01fbefc685bbc3b08cef7ee9",
+   "pkgpath": "res/extension_handle.glb",
+   "size": 85572,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/extension_handle.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "de134864a63348fef1640d3cbf40da1e60299ba9",
+   "pkgpath": "res/hammer.glb",
+   "size": 377216,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/hammer.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "7c77ea04b29ab7a57e8b6fa308aedb835b6fa09d",
+   "pkgpath": "res/home.png",
+   "size": 9993,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/home.png"
+  },
+  {
+   "compression": 8,
+   "hash": "df1844e10edc276853d6af68de71e3dd19e9878c",
+   "pkgpath": "res/instruction_background.png",
+   "size": 139166,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/instruction_background.png"
+  },
+  {
+   "compression": 8,
+   "hash": "a2f5848c74165c15bd5a9cf44e42ae0b4bdb6c2c",
+   "pkgpath": "res/nav.png",
+   "size": 7128,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/nav.png"
+  },
+  {
+   "compression": 8,
+   "hash": "826c91ae7d2d498a1f9937f6bf2461dd5f353cd6",
+   "pkgpath": "res/navigation_hover.png",
+   "size": 15330,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/navigation_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "37cf4dfd362e350d97ae52720e5e110c98768a53",
+   "pkgpath": "res/no.png",
+   "size": 2067,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/no.png"
+  },
+  {
+   "compression": 8,
+   "hash": "4636236f7e6ff6949b9901d04f31803d6a60633f",
+   "pkgpath": "res/no_hover.png",
+   "size": 4743,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/no_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "458a140748d191c2212d8b346bd62d94c61851f9",
+   "pkgpath": "res/o2_pressure.png",
+   "size": 14061,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/o2_pressure.png"
+  },
+  {
+   "compression": 8,
+   "hash": "5783dbfded71ca30b1d57776bbf38e4260a25eb1",
+   "pkgpath": "res/o2_pressure2.png",
+   "size": 26340,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/o2_pressure2.png"
+  },
+  {
+   "compression": 8,
+   "hash": "1bb8a5ffc294f79aeebdd2a06bdecf6e50262250",
+   "pkgpath": "res/ok.png",
+   "size": 2133,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/ok.png"
+  },
+  {
+   "compression": 8,
+   "hash": "9c695576c8152b1340c5a00f95dfed3a509d5b65",
+   "pkgpath": "res/ok_hover.png",
+   "size": 4816,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/ok_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "5f529f1b5ee193083b656bea80b146a75e3d2e9d",
+   "pkgpath": "res/oxygen_rate.png",
+   "size": 23768,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/oxygen_rate.png"
+  },
+  {
+   "compression": 8,
+   "hash": "bb63061c3991c0c12c95e3b6d42663a8ce8b6d27",
+   "pkgpath": "res/rake.glb",
+   "size": 145220,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/rake.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "358daf558b03091ba05c1937897e4695ce0af3d8",
+   "pkgpath": "res/record.png",
+   "size": 584,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/record.png"
+  },
+  {
+   "compression": 8,
+   "hash": "94e0b94666062901d0bb32b07681e9d35cacafd8",
+   "pkgpath": "res/record2.png",
+   "size": 2856,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/record2.png"
+  },
+  {
+   "compression": 8,
+   "hash": "53745e2539fbd21f1bf7b5d59e809c493b721b0f",
+   "pkgpath": "res/record2_hover.png",
+   "size": 5423,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/record2_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "2d763726318513e158bbeced4240a59cbe020b62",
+   "pkgpath": "res/record_hover.png",
+   "size": 6691,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/record_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "dd4a75f4f5178794770d9bc5168505aa900f7f74",
+   "pkgpath": "res/rover.png",
+   "size": 8543,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/rover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "10c7427041304eb1957a7535677fffb275f288a6",
+   "pkgpath": "res/rover_hover.png",
+   "size": 18902,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/rover_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "7f87caa42d51bfbe02755cbaec9c461e11c42f42",
+   "pkgpath": "res/sample.png",
+   "size": 6866,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/sample.png"
+  },
+  {
+   "compression": 8,
+   "hash": "7f143ac1c925cefcbf50fc22cde8b8aff8a1766d",
+   "pkgpath": "res/sample_container.glb",
+   "size": 79848,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/sample_container.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "b5131e0052408d3fd34bb96b92a536751b201418",
+   "pkgpath": "res/scoop.glb",
+   "size": 107312,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/scoop.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "1d8456807118b8d61af8018715b74c3f68dbec2d",
+   "pkgpath": "res/shovel.glb",
+   "size": 333676,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/shovel.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "d2c680cd2be33c9eca1fc877a2915b1ad0a15b53",
+   "pkgpath": "res/soil_sampler.glb",
+   "size": 168424,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/soil_sampler.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "870283106a664207a7971ebd6c2e19be297a3c68",
+   "pkgpath": "res/ss_hover.png",
+   "size": 16452,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/ss_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "ca108b2d241926c1fc762d9875085763075584ed",
+   "pkgpath": "res/step_tracker1.png",
+   "size": 1686,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/step_tracker1.png"
+  },
+  {
+   "compression": 8,
+   "hash": "a4164cee43cee4dc8b3f170d721a780e2e76a708",
+   "pkgpath": "res/step_tracker2.png",
+   "size": 1583,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/step_tracker2.png"
+  },
+  {
+   "compression": 8,
+   "hash": "fd00388557a42684f1db62cc7910a32af431db26",
+   "pkgpath": "res/step_tracker3.png",
+   "size": 1727,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/step_tracker3.png"
+  },
+  {
+   "compression": 8,
+   "hash": "7b69abb153eb6ae3da6dda0f19110eaac8af5984",
+   "pkgpath": "res/step_tracker4.png",
+   "size": 1727,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/step_tracker4.png"
+  },
+  {
+   "compression": 8,
+   "hash": "9ff98af3e07509858e86b380a8c056863b8d5e38",
+   "pkgpath": "res/step_tracker5.png",
+   "size": 1760,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/step_tracker5.png"
+  },
+  {
+   "compression": 8,
+   "hash": "88e1c0609f12d5cae4de62412153d4660ea67d91",
+   "pkgpath": "res/step_tracker6.png",
+   "size": 1608,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/step_tracker6.png"
+  },
+  {
+   "compression": 8,
+   "hash": "c4d89629854cb0b8e76cdf28d1b6176e0515fe3d",
+   "pkgpath": "res/step_tracker7.png",
+   "size": 1482,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/step_tracker7.png"
+  },
+  {
+   "compression": 8,
+   "hash": "0fd69b9e3bf2dd0ccdc001440db67970307c2872",
+   "pkgpath": "res/stop.png",
+   "size": 2497,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/stop.png"
+  },
+  {
+   "compression": 8,
+   "hash": "78cca175c61d5d9f55dc63dbb372757c060dafe4",
+   "pkgpath": "res/stop_hover.png",
+   "size": 5170,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/stop_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "ee498c48d7fa95b78e649bb6962b27f6b5ac0635",
+   "pkgpath": "res/tongs.glb",
+   "size": 401216,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/tongs.glb"
+  },
+  {
+   "compression": 8,
+   "hash": "972551aed1ed17e618d9082427b5415326abaa93",
+   "pkgpath": "res/tool.png",
+   "size": 7039,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/tool.png"
+  },
+  {
+   "compression": 8,
+   "hash": "13013c05c2ccbcb5f4f183c935a77309e45855f7",
+   "pkgpath": "res/tool_hover.png",
+   "size": 6679,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/tool_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "145c44d8f6d553d7bfede40d8e3522ac620cec1a",
+   "pkgpath": "res/toolkit.png",
+   "size": 611,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/toolkit.png"
+  },
+  {
+   "compression": 8,
+   "hash": "6720a1483710d6fb6f9762068dd2d845bdbd3707",
+   "pkgpath": "res/toolkit_hover.png",
+   "size": 16863,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/toolkit_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "25a844b64dd1c9ac2c045e7504886ee461ac0d55",
+   "pkgpath": "res/yes.png",
+   "size": 2195,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/yes.png"
+  },
+  {
+   "compression": 8,
+   "hash": "8b44a9a83ecd93dd4032d61bce2828e19dd59172",
+   "pkgpath": "res/yes_hover.png",
+   "size": 4841,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/res/yes_hover.png"
+  },
+  {
+   "compression": 8,
+   "hash": "6f7387daba4f664652f23f28416468a720b5b954",
+   "pkgpath": "manifest.xml",
+   "size": 730,
+   "src": "C:/Users/vandy/Desktop/ARGOS/argosMain\\manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "1da90b6e33c7ebc3313737cfd6c9786eac8987e5",
+     "developer_id": "c734876a-7bda-4e95-be0b-891a1ef5cad2",
+     "min_api_level": "2"
+    }
+   },
+   "xfrm_hash": "aae6e846d7210aa3398b1d4bd0902066827d74f2",
+   "xfrm_path": "C:/Users/vandy/Desktop/ARGOS/argosMain/.out/app/debug_lumin_clang-3.8_aarch64\\manifest.xml-4ea245c9c6230310",
+   "xfrm_size": 720
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "C:\\Users\\vandy\\Desktop\\ARGOS\\cert\\cert0427\\cert0427.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "C:\\Users\\vandy\\Desktop\\ARGOS\\cert\\cert0427\\cert0427.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}

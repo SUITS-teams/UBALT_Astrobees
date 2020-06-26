@@ -1,0 +1,12 @@
+<manifest xmlns:ml="magicleap" ml:developer_id="c734876a-7bda-4e95-be0b-891a1ef5cad2" ml:package="com.ubaltastrobees.argosmain" ml:version_code="1" ml:version_name="0.0.1">
+  <application ml:min_api_level="2" ml:sdk_version="1.0" ml:visible_name="ARGOS MAIN">
+    <component ml:binary_name="bin/index.js" ml:name=".fullscreen" ml:type="Fullscreen" ml:visible_name="ARGOS MAIN">
+      <mode ml:shareable="true" />
+      <icon ml:model_folder="" ml:portal_folder="" />
+    </component>
+    <uses-privilege ml:name="GesturesConfig" />
+    <uses-privilege ml:name="GesturesSubscribe" />
+    <uses-privilege ml:name="LowLatencyLightwear" />
+    <uses-privilege ml:name="MagicScript" />
+  </application>
+</manifest>

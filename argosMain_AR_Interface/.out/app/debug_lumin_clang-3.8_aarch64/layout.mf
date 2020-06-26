@@ -1,0 +1,762 @@
+[
+ {
+  "dest": "bin/_virtual/XMLHttpRequest.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/XMLHttpRequest.js"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-bufferutil",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-bufferutil"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-child_process",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-child_process"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-http",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-http"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-https",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-https"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-net",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-net"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-tls",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-tls"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-tty",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-tty"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-url",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-url"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-utf-8-validate",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-utf-8-validate"
+ },
+ {
+  "dest": "bin/_virtual/_commonjs-external-zlib",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjs-external-zlib"
+ },
+ {
+  "dest": "bin/_virtual/_commonjsHelpers.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/_commonjsHelpers.js"
+ },
+ {
+  "dest": "bin/_virtual/binary.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/binary.js"
+ },
+ {
+  "dest": "bin/_virtual/browser.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/browser.js"
+ },
+ {
+  "dest": "bin/_virtual/browser2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/browser2.js"
+ },
+ {
+  "dest": "bin/_virtual/browser3.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/browser3.js"
+ },
+ {
+  "dest": "bin/_virtual/buffer-util.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/buffer-util.js"
+ },
+ {
+  "dest": "bin/_virtual/common.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/common.js"
+ },
+ {
+  "dest": "bin/_virtual/common2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/common2.js"
+ },
+ {
+  "dest": "bin/_virtual/constants.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/constants.js"
+ },
+ {
+  "dest": "bin/_virtual/crypto.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/crypto.js"
+ },
+ {
+  "dest": "bin/_virtual/debug.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/debug.js"
+ },
+ {
+  "dest": "bin/_virtual/event-target.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/event-target.js"
+ },
+ {
+  "dest": "bin/_virtual/events.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/events.js"
+ },
+ {
+  "dest": "bin/_virtual/extension.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/extension.js"
+ },
+ {
+  "dest": "bin/_virtual/fs.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/fs.js"
+ },
+ {
+  "dest": "bin/_virtual/globalThis.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/globalThis.js"
+ },
+ {
+  "dest": "bin/_virtual/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index.js"
+ },
+ {
+  "dest": "bin/_virtual/index10.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index10.js"
+ },
+ {
+  "dest": "bin/_virtual/index11.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index11.js"
+ },
+ {
+  "dest": "bin/_virtual/index12.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index12.js"
+ },
+ {
+  "dest": "bin/_virtual/index13.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index13.js"
+ },
+ {
+  "dest": "bin/_virtual/index14.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index14.js"
+ },
+ {
+  "dest": "bin/_virtual/index15.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index15.js"
+ },
+ {
+  "dest": "bin/_virtual/index16.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index16.js"
+ },
+ {
+  "dest": "bin/_virtual/index17.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index17.js"
+ },
+ {
+  "dest": "bin/_virtual/index18.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index18.js"
+ },
+ {
+  "dest": "bin/_virtual/index19.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index19.js"
+ },
+ {
+  "dest": "bin/_virtual/index2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index2.js"
+ },
+ {
+  "dest": "bin/_virtual/index20.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index20.js"
+ },
+ {
+  "dest": "bin/_virtual/index21.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index21.js"
+ },
+ {
+  "dest": "bin/_virtual/index22.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index22.js"
+ },
+ {
+  "dest": "bin/_virtual/index23.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index23.js"
+ },
+ {
+  "dest": "bin/_virtual/index24.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index24.js"
+ },
+ {
+  "dest": "bin/_virtual/index25.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index25.js"
+ },
+ {
+  "dest": "bin/_virtual/index26.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index26.js"
+ },
+ {
+  "dest": "bin/_virtual/index3.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index3.js"
+ },
+ {
+  "dest": "bin/_virtual/index4.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index4.js"
+ },
+ {
+  "dest": "bin/_virtual/index5.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index5.js"
+ },
+ {
+  "dest": "bin/_virtual/index6.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index6.js"
+ },
+ {
+  "dest": "bin/_virtual/index7.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index7.js"
+ },
+ {
+  "dest": "bin/_virtual/index8.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index8.js"
+ },
+ {
+  "dest": "bin/_virtual/index9.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/index9.js"
+ },
+ {
+  "dest": "bin/_virtual/is-buffer.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/is-buffer.js"
+ },
+ {
+  "dest": "bin/_virtual/keys.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/keys.js"
+ },
+ {
+  "dest": "bin/_virtual/manager.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/manager.js"
+ },
+ {
+  "dest": "bin/_virtual/node.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/node.js"
+ },
+ {
+  "dest": "bin/_virtual/node2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/node2.js"
+ },
+ {
+  "dest": "bin/_virtual/node3.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/node3.js"
+ },
+ {
+  "dest": "bin/_virtual/on.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/on.js"
+ },
+ {
+  "dest": "bin/_virtual/permessage-deflate.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/permessage-deflate.js"
+ },
+ {
+  "dest": "bin/_virtual/polling-jsonp.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/polling-jsonp.js"
+ },
+ {
+  "dest": "bin/_virtual/polling-xhr.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/polling-xhr.js"
+ },
+ {
+  "dest": "bin/_virtual/polling.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/polling.js"
+ },
+ {
+  "dest": "bin/_virtual/receiver.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/receiver.js"
+ },
+ {
+  "dest": "bin/_virtual/sender.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/sender.js"
+ },
+ {
+  "dest": "bin/_virtual/socket.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/socket.js"
+ },
+ {
+  "dest": "bin/_virtual/socket2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/socket2.js"
+ },
+ {
+  "dest": "bin/_virtual/stream.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/stream.js"
+ },
+ {
+  "dest": "bin/_virtual/transport.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/transport.js"
+ },
+ {
+  "dest": "bin/_virtual/url.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/url.js"
+ },
+ {
+  "dest": "bin/_virtual/utf8.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/utf8.js"
+ },
+ {
+  "dest": "bin/_virtual/validation.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/validation.js"
+ },
+ {
+  "dest": "bin/_virtual/websocket-server.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/websocket-server.js"
+ },
+ {
+  "dest": "bin/_virtual/websocket.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/websocket.js"
+ },
+ {
+  "dest": "bin/_virtual/websocket2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/_virtual/websocket2.js"
+ },
+ {
+  "dest": "bin/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/index.js"
+ },
+ {
+  "dest": "bin/node_modules/after/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/after/index.js"
+ },
+ {
+  "dest": "bin/node_modules/async-limiter/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/async-limiter/index.js"
+ },
+ {
+  "dest": "bin/node_modules/backo2/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/backo2/index.js"
+ },
+ {
+  "dest": "bin/node_modules/component-bind/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/component-bind/index.js"
+ },
+ {
+  "dest": "bin/node_modules/component-emitter/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/component-emitter/index.js"
+ },
+ {
+  "dest": "bin/node_modules/component-inherit/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/component-inherit/index.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/globalThis.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/globalThis.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/index.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/socket.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/socket.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/transport.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transport.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/transports/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/index.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/transports/polling-jsonp.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/polling-jsonp.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/transports/polling-xhr.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/polling-xhr.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/transports/polling.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/polling.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/lib/transports/websocket.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/lib/transports/websocket.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/debug/src/browser.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/browser.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/debug/src/common.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/common.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/debug/src/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/index.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/debug/src/node.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/debug/src/node.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ms/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ms/index.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/index.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/buffer-util.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/buffer-util.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/constants.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/constants.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/event-target.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/event-target.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/extension.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/extension.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/permessage-deflate.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/permessage-deflate.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/receiver.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/receiver.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/sender.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/sender.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/validation.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/validation.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/websocket-server.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/websocket-server.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-client/node_modules/ws/lib/websocket.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-client/node_modules/ws/lib/websocket.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-parser/lib/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-parser/lib/index.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-parser/lib/keys.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-parser/lib/keys.js"
+ },
+ {
+  "dest": "bin/node_modules/engine.io-parser/lib/utf8.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/engine.io-parser/lib/utf8.js"
+ },
+ {
+  "dest": "bin/node_modules/gl-matrix/esm/common.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/common.js"
+ },
+ {
+  "dest": "bin/node_modules/gl-matrix/esm/mat3.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/mat3.js"
+ },
+ {
+  "dest": "bin/node_modules/gl-matrix/esm/mat4.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/mat4.js"
+ },
+ {
+  "dest": "bin/node_modules/gl-matrix/esm/quat.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/quat.js"
+ },
+ {
+  "dest": "bin/node_modules/gl-matrix/esm/vec2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/vec2.js"
+ },
+ {
+  "dest": "bin/node_modules/gl-matrix/esm/vec3.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/vec3.js"
+ },
+ {
+  "dest": "bin/node_modules/gl-matrix/esm/vec4.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/gl-matrix/esm/vec4.js"
+ },
+ {
+  "dest": "bin/node_modules/has-binary2/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/has-binary2/index.js"
+ },
+ {
+  "dest": "bin/node_modules/has-binary2/node_modules/isarray/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/has-binary2/node_modules/isarray/index.js"
+ },
+ {
+  "dest": "bin/node_modules/indexof/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/indexof/index.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/Storage.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/Storage.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/assert.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/assert.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/bintools.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/bintools.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/codec-wrap.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/codec-wrap.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/console.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/console.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/crypto.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/crypto.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/evented.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/evented.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fetch.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fetch.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fs-promised.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fs-promised.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fs-uv.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fs-uv.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/fs.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/fs.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/headers.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/headers.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/http-codec.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/http-codec.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/mime.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/mime.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/node/crypto.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/crypto.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/node/events.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/events.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/node/fs.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/fs.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/node/process.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/process.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/node/stream.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/stream.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/node/util.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/node/util.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/polyfills.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/polyfills.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/pretty-print.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/pretty-print.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/resolve.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/resolve.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/sha1.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/sha1.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/socket-wrap.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/socket-wrap.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/tcp.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/tcp.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/text-encoder.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/text-encoder.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/timers.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/timers.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/tls-wrap.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/tls-wrap.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/utils.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/utils.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/utils2.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/utils2.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/websocket-codec.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/websocket-codec.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/websocket.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/websocket.js"
+ },
+ {
+  "dest": "bin/node_modules/magic-script-polyfills/src/xhr.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/magic-script-polyfills/src/xhr.js"
+ },
+ {
+  "dest": "bin/node_modules/parseqs/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/parseqs/index.js"
+ },
+ {
+  "dest": "bin/node_modules/parseuri/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/parseuri/index.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/dist/socket.io.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/dist/socket.io.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/lib/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/index.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/lib/manager.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/manager.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/lib/on.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/on.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/lib/socket.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/socket.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/lib/url.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/lib/url.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/debug/src/browser.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/browser.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/debug/src/common.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/common.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/debug/src/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/index.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/debug/src/node.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/debug/src/node.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/isarray/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/isarray/index.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/ms/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/ms/index.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/binary.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/binary.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/index.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/is-buffer.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/is-buffer.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/browser.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/browser.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/debug.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/debug.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/index.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/node.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/debug/src/node.js"
+ },
+ {
+  "dest": "bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/ms/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/socket.io-client/node_modules/socket.io-parser/node_modules/ms/index.js"
+ },
+ {
+  "dest": "bin/node_modules/supports-color/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/supports-color/index.js"
+ },
+ {
+  "dest": "bin/node_modules/to-array/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/to-array/index.js"
+ },
+ {
+  "dest": "bin/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/xmlhttprequest-ssl/lib/XMLHttpRequest.js"
+ },
+ {
+  "dest": "bin/node_modules/yeast/index.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/node_modules/yeast/index.js"
+ },
+ {
+  "dest": "bin/src/Components/systemComponents/scienceSampling/scienceSampling.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/systemComponents/scienceSampling/scienceSampling.js"
+ },
+ {
+  "dest": "bin/src/Components/systemComponents/telemetry/telemetry.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/systemComponents/telemetry/telemetry.js"
+ },
+ {
+  "dest": "bin/src/Components/systemComponents/toolKit/toolKit.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/systemComponents/toolKit/toolKit.js"
+ },
+ {
+  "dest": "bin/src/Components/uiComponents/ButtonArgos.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/ButtonArgos.js"
+ },
+ {
+  "dest": "bin/src/Components/uiComponents/Prisms.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/Prisms.js"
+ },
+ {
+  "dest": "bin/src/Components/uiComponents/TextArgos.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/TextArgos.js"
+ },
+ {
+  "dest": "bin/src/Components/uiComponents/globalVariables.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/Components/uiComponents/globalVariables.js"
+ },
+ {
+  "dest": "bin/src/app.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/app.js"
+ },
+ {
+  "dest": "bin/src/main.js",
+  "src": "C:/Users/vandy/Desktop/ARGOS/argosMain/bin/src/main.js"
+ }
+]
